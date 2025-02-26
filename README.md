@@ -9,8 +9,8 @@ NeuroVID Predictor integrates cutting-edge AI models to assist in the diagnosis 
 Features
 
 - Medical Image Upload: Easily upload brain MRI images for brain tumor detection or COVID-19 radiography images for diagnosis.
-- **Automated Prediction: Obtain rapid predictions using advanced AI models trained on extensive datasets.
-- **User Interface: Simple and intuitive interface designed for healthcare professionals and researchers.
+- Automated Prediction: Obtain rapid predictions using advanced AI models trained on extensive datasets.
+- User Interface: Simple and intuitive interface designed for healthcare professionals and researchers.
 
 Installation
 
